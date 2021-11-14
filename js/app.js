@@ -14,3 +14,7 @@
 // 4. Strings
 // 文字String
 // 数字String
+
+for (let i = 0; i < 10; i++) {
+    console.log("hi", i)
+}
